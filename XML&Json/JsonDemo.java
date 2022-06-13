@@ -6,8 +6,8 @@ public class JsonDemo {
 	public static void main(String[] args) {
 		JSONObject jo = new JSONObject();
 		
-		jo.put("username", "ncuy");
-		jo.put("password", "ncuy");
+		jo.put("username", "nvpho");
+		jo.put("password", "nvpho");
 		System.out.println(jo);
 		System.out.println(jo.get("username"));
 	}

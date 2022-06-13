@@ -1,17 +1,17 @@
 <employees>
     <employee id="111">
-        <firstName>Lokesh</firstName>
+        <firstName>Hai</firstName>
         <lastName>Gupta</lastName>
-        <location>India</location>
+        <location>Quang Ngai</location>
     </employee>
-    <employee id="222">
+    <employee id="Tam">
         <firstName>Alex</firstName>
         <lastName>Gussin</lastName>
-        <location>Russia</location>
+        <location>Da Nang</location>
     </employee>
-    <employee id="333">
+    <employee id="Tu">
         <firstName>David</firstName>
         <lastName>Feezor</lastName>
-        <location>USA</location>
+        <location>Quang Nam</location>
     </employee>
 </employees>
